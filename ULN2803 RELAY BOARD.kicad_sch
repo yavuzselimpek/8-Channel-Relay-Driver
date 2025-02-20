@@ -6535,7 +6535,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 226.06 151.13 90)
 			(effects
 				(font
@@ -7441,7 +7441,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
 			(at 43.18 41.91 0)
 			(effects
 				(font
@@ -7848,7 +7848,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 156.21 38.1 90)
 			(effects
 				(font
@@ -8002,7 +8002,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 156.21 151.13 90)
 			(effects
 				(font
@@ -8598,7 +8598,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 156.21 113.03 90)
 			(effects
 				(font
@@ -8811,7 +8811,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "680R"
 			(at 218.44 109.2199 0)
 			(effects
 				(font
@@ -9036,7 +9036,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "680R"
 			(at 218.44 34.2899 0)
 			(effects
 				(font
@@ -9185,7 +9185,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 226.06 113.03 90)
 			(effects
 				(font
@@ -9552,7 +9552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 226.06 76.2 90)
 			(effects
 				(font
@@ -10122,7 +10122,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "680R"
 			(at 148.59 72.3899 0)
 			(effects
 				(font
@@ -10328,7 +10328,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "680R"
 			(at 218.44 72.3899 0)
 			(effects
 				(font
@@ -10750,7 +10750,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "680R"
 			(at 148.59 109.2199 0)
 			(effects
 				(font
@@ -10820,7 +10820,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "680R"
 			(at 45.72 31.7499 0)
 			(effects
 				(font
@@ -11027,7 +11027,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "680R"
 			(at 148.59 147.3199 0)
 			(effects
 				(font
@@ -11097,7 +11097,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "680R"
 			(at 148.59 34.2899 0)
 			(effects
 				(font
@@ -11397,7 +11397,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin"
+		(property "Footprint" "Button_Switch_THT:SW_DIP_SPSTx01_Slide_9.78x4.72mm_W7.62mm_P2.54mm"
 			(at 34.29 24.13 0)
 			(effects
 				(font
@@ -12093,7 +12093,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 226.06 38.1 90)
 			(effects
 				(font
@@ -12238,7 +12238,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "680R"
 			(at 218.44 147.3199 0)
 			(effects
 				(font
@@ -12317,7 +12317,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 156.21 76.2 90)
 			(effects
 				(font
