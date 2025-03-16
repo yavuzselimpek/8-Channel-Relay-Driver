@@ -14,10 +14,17 @@ Bu proje, ULN2803A Darlington Transistör Dizisi kullanarak 8 röleyi kontrol ed
 - Kompakt, düşük parazitli ve kolay üretilebilir PCB tasarımı ile prototipleme ve seri üretime uygundur.
 ##  Kullanılan Bileşenler
 1. **Entegre Devreler**
+<<<<<<< HEAD
 - ULN2803A: 8 kanallı Darlington transistör dizisi. Röleleri düşük akım seviyelerinde sürmek için kullanılır.
 2. **Röleler ve Sürücü Elemanları**
 - Röleler (SRD-05VDC-SL-C): Yüksek akım/gerilim anahtarlamak için kullanılır.
 - Diyotlar(1N4007): Röle bobinlerinin oluşturduğu ters EMF'yi (geri gerilim darbelerini)  engellemek için kullanılır. (flyback diyotları)
+=======
+- ULN2803A: 8 kanallı Darlington transistör dizisi röleleri düşük akım seviyelerinde sürmek için kullanıldı.
+2. **Röleler ve Sürücü Elemanları**
+- Röleler (SRD-05VDC-SL-C): Yüksek akım/gerilim anahtarlamak için kullanılır.
+- Diyotlar(M7-DC 1A 1000V): Röle bobinlerinin oluşturduğu ters EMF'yi (geri gerilim darbelerini)  engellemek için kullanılır. (flyback diyotları)
+>>>>>>> 54cf637373071c6b525579860f33b1d83039397b
 3. **Pasif Bileşenler**
 - 10kΩ pull-down dirençler (R2-R9): Bu dirençler, giriş pinlerinin belirsiz bir durumda kalmasını engellemek için GND'ye bağlanmış. Pull-down dirençleri sayesinde girişler, kaynaktan bağımsız olarak her zaman belirli bir lojik seviyede kalır.
 - 10kΩ seri giriş dirençleri (R10-R17): Seri dirençler, giriş pinleri üzerindeki ani gerilim değişikliklerini (darbe gürültülerini) yumuşatarak ULN2803A’nın daha stabil çalışmasını sağlar. Sinyal geçişlerini daha düzgün hale getirerek istenmeyen osilasyonları önler. Aynı zamanda akımı sınırlayarak mikrodenetleyici pinlerini korur.
@@ -46,3 +53,7 @@ Bu proje, ULN2803A Darlington Transistör Dizisi kullanarak 8 röleyi kontrol ed
 <img src="https://github.com/yavuzselimpek/8-Channel-Relay-Driver/blob/master/Pictures/PCB03.png">
 <p align="center">
 <img src="https://github.com/yavuzselimpek/8-Channel-Relay-Driver/blob/master/Pictures/PCB04.png">
+<p align="center">
+<img src="https://github.com/yavuzselimpek/8-Channel-Relay-Driver/blob/master/Pictures/PCB05.png">
+<p align="center">
+<img src="https://github.com/yavuzselimpek/8-Channel-Relay-Driver/blob/master/Pictures/PCB06.png">
